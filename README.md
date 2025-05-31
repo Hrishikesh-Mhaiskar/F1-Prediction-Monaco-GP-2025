@@ -1,4 +1,4 @@
-# 🏎️ F1 Finish Position Prediction - Monaco GP
+# 🏎️ F1 Finish Position Prediction - Monaco GP (2025)
 
 This project predicts the **finishing positions of drivers** in the **Formula 1 Monaco Grand Prix (2025)** using historical lap data, weather conditions, and machine learning models (Random Forest and XGBoost).
 
