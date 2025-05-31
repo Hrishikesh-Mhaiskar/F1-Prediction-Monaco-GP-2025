@@ -45,4 +45,4 @@ Two models are trained:
 - Encoded features for driver & team names
 
 ## 🤝 Acknowledgements
-- FastF1 for making F1 telemetry accessible.
+- FastF1 for making F1 Data accessible.
