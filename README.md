@@ -38,8 +38,6 @@ Two models are trained:
 - **Random Forest Regressor**
 - **XGBoost Regressor**
 
-Both models are trained to predict average lap times → used to **infer finishing positions**.
-
 ## 📊 Features Used
 
 - `Driver`, `Team`, `Track Temp`, `Air Temp`, `Humidity`, `Wind Speed`
